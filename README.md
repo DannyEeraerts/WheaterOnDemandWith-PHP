@@ -1,2 +1,5 @@
 # WheaterOnDemandWith-PHP
-First PHP exercice
+First PHP exercice and connection with API
+
+Used AXIOS
+
